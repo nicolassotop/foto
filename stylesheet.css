@@ -8,6 +8,10 @@ body {
   background-size: cover;
 }
 
+#footer {
+    margin: 2px auto 0 auto;
+}
+
 .container{
 padding: 25px;   
 }  
